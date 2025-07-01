@@ -1,0 +1,22 @@
+#
+# VSCode
+#
+.vscode/
+
+#
+# PlatformIO
+#
+# http://docs.platformio.org/en/latest/projectconf.html#projectconf-pio-build-dir
+#
+.pio/
+
+#
+# OS generated files
+#
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
